@@ -24,7 +24,5 @@ Included plugins:
 Updater (Installer only):
 
 * WinGup v4.1
-Git is a version control system.
-Git is free sofware.
 Git is a distributed version control system.
 Git is free software.
